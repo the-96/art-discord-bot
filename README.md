@@ -4,15 +4,7 @@ Welcome to Database Systems!. Please modify this README file with the following 
 
 1. Thomas He, 920894114, the2@mail.sfsu.edu
 
-2. Update this table of assignments. Set to done after one of the assignments is completed:
-
-
-| Assignment               |   Completed/Not-Completed  |
-| ------------------------ | -------------------------- |
-| Milestone #1             |            completed       |
-| Milestone #2             |            completed       |
-| Milestone #3             |            completed       |
-| Extra-credit              |        not completed       |
+2. starter code written by Jose Ortiz
 
 
 If one of the milestones, or extra-credit assignment, is not set to "completed" by its due date, 
